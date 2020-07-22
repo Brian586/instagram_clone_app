@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "757455624576",
+    "firebase_url": "https://social-network-app-ea134.firebaseio.com",
+    "project_id": "social-network-app-ea134",
+    "storage_bucket": "social-network-app-ea134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757455624576:android:239633764c51d021db0965",
+        "android_client_info": {
+          "package_name": "com.muhammadali.buddiesgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757455624576-bqj4avtftcvof3a6pt4r9op3q6lh5slo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhammadali.buddiesgram",
+            "certificate_hash": "21518a7c3d9f2c488dddab8356f6cc0b283458ed"
+          }
+        },
+        {
+          "client_id": "757455624576-k3io6u7ah9knhgnuputseaa6pouo0t25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzLu7oGghXAxryDC8rqvyMZ_zXx_4BFQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757455624576-k3io6u7ah9knhgnuputseaa6pouo0t25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
